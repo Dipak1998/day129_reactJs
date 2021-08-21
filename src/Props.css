@@ -24,3 +24,9 @@
     color: white;
     border: none;
 }
+.dark{
+    background-color: black;
+}
+.light{
+    background-color: white;
+}

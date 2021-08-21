@@ -4,11 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const fname = "Dipak";
-const lname = "Garai";
-const currentTime = new Date().toLocaleTimeString();
-const currentDate = new Date().toLocaleDateString();
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
